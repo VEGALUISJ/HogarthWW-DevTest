@@ -124,8 +124,10 @@
   }
 }
 
-.timeline {
-  background-color: aqua;
-  display: flex;
-  flex-wrap: wrap;
+.wrapper {
+  background-color: rgb(0, 47, 255);
+}
+
+.section-headline {
+  text-align: center;
 }
